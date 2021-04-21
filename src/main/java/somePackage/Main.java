@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Commit from newBranch");
         System.out.println("4 Commit for master");
+        System.out.println("5 Commit for master");
     }
 }
