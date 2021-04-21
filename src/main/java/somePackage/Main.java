@@ -9,5 +9,7 @@ public class Main {
         System.out.println("5 Commit for master");
         System.out.println("6 Commit for newBranch - rebase testing");
         System.out.println("8` Commit for master");
+        System.out.println("9 Commit for master - rebase");
+        System.out.println("10 Commit for master - rebase");
     }
 }
