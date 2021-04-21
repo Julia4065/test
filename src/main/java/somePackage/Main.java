@@ -12,5 +12,7 @@ public class Main {
         System.out.println("9 Commit for master - rebase");
         System.out.println("10 Commit for master - rebase");
         System.out.println("11 Commit for master - rebase");
+        System.out.println("12 Commit for master - rebase");
+        System.out.println("13 Commit for master - rebase");
     }
 }
